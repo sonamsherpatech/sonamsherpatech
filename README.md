@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sonamsherpa07" target="blank"><img src="https://img.shields.io/twitter/follow/@sonamsherpa07?logo=twitter&style=for-the-badge" alt="@sonamsherpa07" /></a> </p>
 
-- 🔭 I’m currently working on **Full Stack CRUD Ppplication**
+- 🔭 I’m currently working on **Full Stack CRUD Application**
 
 - 🌱 I’m currently learning **Expressjs, Nodejs**
 
