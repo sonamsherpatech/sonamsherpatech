@@ -1,5 +1,7 @@
 # 💫 About Me:
-Passionate Full-Stack Developer in the making<br>🚀 Exploring Next.js, React, TypeScript & Backend Systems<br>📚 Always learning, always building<br><br>I enjoy turning ideas into real-world applications and writing clean, scalable code.<br>Currently focused on modern web development, understanding system design, and improving my problem-solving skills through hands-on projects.<br>Tech Stack<br><br>Frontend: HTML, CSS, JavaScript, React, Next.js<br><br>Backend: Node.js, Express, REST APIs<br><br>Database: MongoDB, SQL (basics)<br><br>Tools: Git, GitHub, VS Code<br><br>🌱 What I’m Working On<br><br>Building responsive and SEO-friendly web apps<br><br>Learning advanced TypeScript and Next.js App Router<br><br>Improving backend logic & API design<br><br>🎯 Goals<br><br>Contribute to open-source projects<br><br>Become a confident full-stack engineer<br><br>Build products that solve real problems
+✨ Passionate Full-Stack Developer in the making<br>
+🚀 Exploring Next.js, React, TypeScript & Backend Systems<br>
+📚 Always learning, always building<br>
 
 
 ## 🌐 Socials:
